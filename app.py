@@ -17,8 +17,9 @@ def main():
     
     # Add GitHub and Medium blog links
     st.markdown("### Additional Resources")
-    st.markdown("[GitHub Repository](https://github.com/Harshithvarma007/Spotify-Dashboard)")
+    st.markdown("[GitHub Repository](https://github.com/Harshithvarma007/Amazon-dashboard)")
     
+
 
 if __name__ == "__main__":
     main()
